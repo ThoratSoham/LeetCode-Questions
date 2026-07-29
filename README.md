@@ -25,4 +25,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0202-happy-number) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
