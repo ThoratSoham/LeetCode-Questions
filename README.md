@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0202-happy-number](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -40,4 +41,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0205-isomorphic-strings) |
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
