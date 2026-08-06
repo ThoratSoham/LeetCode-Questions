@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0202-happy-number](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0258-add-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,4 +89,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
