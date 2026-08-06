@@ -29,17 +29,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 ## Linked List
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
 | ------- |
@@ -56,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 ## Design
 |  |
 | ------- |
