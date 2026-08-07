@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0190-reverse-bits](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -28,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,11 +59,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -98,4 +103,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0258-add-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
