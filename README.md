@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 | [0202-happy-number](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 ## Linked List
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 | [0217-contains-duplicate](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0268-missing-number) |
 ## Sorting
@@ -112,4 +114,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0278-first-bad-version) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
