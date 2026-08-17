@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 | [0217-contains-duplicate](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0303-range-sum-query-immutable) |
 ## Sorting
 |  |
 | ------- |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0303-range-sum-query-immutable) |
 ## Queue
 |  |
 | ------- |
@@ -121,4 +123,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
