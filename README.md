@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0202-happy-number](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0202-happy-number) |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0217-contains-duplicate) |
