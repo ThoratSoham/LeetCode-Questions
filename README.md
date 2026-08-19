@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0231-power-of-two) |
