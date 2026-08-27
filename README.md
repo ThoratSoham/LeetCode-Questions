@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0217-contains-duplicate) |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0012-integer-to-roman](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
@@ -71,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0303-range-sum-query-immutable) |
@@ -78,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0268-missing-number) |
