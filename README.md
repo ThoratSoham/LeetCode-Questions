@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Array
 |  |
 | ------- |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
 | ------- |
