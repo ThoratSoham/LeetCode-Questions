@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0190-reverse-bits](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
 | ------- |
@@ -80,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -88,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 ## Stack
 |  |
 | ------- |
@@ -145,4 +149,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0303-range-sum-query-immutable) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
