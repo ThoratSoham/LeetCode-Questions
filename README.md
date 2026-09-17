@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0012-integer-to-roman) |
+| [0189-rotate-array](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0258-add-digits) |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0016-3sum-closest) |
+| [0189-rotate-array](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 ## Linked List
@@ -79,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0303-range-sum-query-immutable) |
