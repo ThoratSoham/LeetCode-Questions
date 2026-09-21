@@ -11,9 +11,10 @@ public:
         }
 
         vector<vector<string>> result;
-        for (const auto& pair : anagram_map){
+        for (const auto& pair: anagram_map){
             result.push_back(pair.second);
         }
-    return result;
+
+        return result;
     }
 };
