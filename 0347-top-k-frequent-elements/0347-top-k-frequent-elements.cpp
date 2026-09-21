@@ -1,25 +1,27 @@
-#include<unordered_map>
+#include <vector>
+#include <unordered_map>
+#include <queue>
 class Solution {
 public:
     vector<int> topKFrequent(vector<int>& nums, int k) {
-        unordered_map<int, int> freq;
-        for (int num : nums){
-                freq[num]++;
+        unordered_map<int, int> freq_map;
+        for (int num: nums){
+            freq_map[num]++;
         }
 
-        vector<pair<int, int>> vec(freq.begin(), freq.end());
+        priority_queue<pair<int,int>, vector<pair<int, int>>, greater<pair<int,int>>> min_heap;
 
-        std::sort(vec.begin(), vec.end(), [](const auto& a, const auto& b) {
-        return a.second > b.second;
-        });
-
+        for (const auto& [num,count]:freq_map){
+            min_heap.push({count,num});
+            if (min_heap.size()>k){
+                min_heap.pop();
+            }
+        }
         vector<int> result;
-        int count = 0;
-        for (const auto& [key, value] : vec) {
-            if (count >= k) break;
-            result.push_back(key);
-            count++;
+        while(!min_heap.empty()){
+            result.push_back(min_heap.top().second);
+            min_heap.pop();
         }
-    return result;
+        return result;
     }
 };
