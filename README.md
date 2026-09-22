@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0303-range-sum-query-immutable) |
 ## Heap (Priority Queue)
 |  |
