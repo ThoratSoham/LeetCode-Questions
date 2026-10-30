@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0054-spiral-matrix) |
 | [0136-single-number](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ThoratSoham/LeetCode-Questions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0189-rotate-array) |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0258-add-digits) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ThoratSoham/LeetCode-Questions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Number Theory
@@ -184,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0054-spiral-matrix) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
