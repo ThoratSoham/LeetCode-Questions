@@ -4,15 +4,15 @@ class Solution(object):
         :type numRows: int
         :rtype: List[List[int]]
         """
-        
-        result = []
-
+        triangle = []
         for i in range(numRows):
-            row = [1]*(i+1)
+            result = [1] * (i+1)
 
-            for j in range(1,i):
-                row[j] = result[i-1][j-1] + result[i-1][j]
+            for j in range(1, i):
+                result[j] = triangle[i-1][j-1]+triangle[i-1][j]
+            triangle.append(result)
+        return triangle
 
-            result.append(row)
-
-        return result
+# Synced seamlessly with LeetHub Pro
+# Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+# Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
