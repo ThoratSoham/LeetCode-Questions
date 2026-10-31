@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0231-power-of-two) |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0118-pascals-triangle) |
@@ -188,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0054-spiral-matrix) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
