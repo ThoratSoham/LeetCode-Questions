@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0016-3sum-closest) |
 | [0189-rotate-array](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0202-happy-number) |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0048-rotate-image) |
@@ -104,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/ThoratSoham/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/ThoratSoham/LeetCode-Questions/tree/main/0169-majority-element/) | Easy |
